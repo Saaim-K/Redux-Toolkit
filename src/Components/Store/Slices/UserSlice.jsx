@@ -9,5 +9,6 @@ const usersSlice = createSlice({
       clearAllUsers: (state, action) => { }
    }
 });
+console.log(usersSlice)
 
 export default usersSlice
