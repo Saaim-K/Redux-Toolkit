@@ -3,7 +3,9 @@ import React from 'react'
 const App = () => {
   return (
     <>
-      <h1>React</h1>
+      <>
+        Learning React-Redux
+      </>
     </>
   )
 }
